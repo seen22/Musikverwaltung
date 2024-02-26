@@ -1,0 +1,19 @@
+{
+  "name": "ssss",
+  "songs": [
+    {
+      "title": "A great Comeback",
+      "genre": "unknown",
+      "artist": "Dag Reinbott",
+      "album": "TerraSound.de",
+      "path": "src\\main\\resources\\mp3_files\\Dag Reinbott - A great Comeback.mp3"
+    },
+    {
+      "title": "Malfunction",
+      "genre": "unknown",
+      "artist": "Dag Reinbott",
+      "album": "TerraSound.de",
+      "path": "C:\\Users\\Seen Kh\\Desktop\\S. INB\\Java\\Songs\\Dag Reinbott - Malfunction.mp3"
+    }
+  ]
+}

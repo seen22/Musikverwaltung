@@ -1,0 +1,40 @@
+{
+  "name": "all_songs_playlist",
+  "songs": [
+    {
+      "title": "A beautiful Memory",
+      "genre": "unknown",
+      "artist": "Dag Reinbott",
+      "album": "TerraSound.de",
+      "path": "src\\main\\resources\\mp3_files\\beautifulMemory.mp3"
+    },
+    {
+      "title": "A brilliant Idea",
+      "genre": "unknown",
+      "artist": "Dag Reinbott",
+      "album": "TerraSound.de",
+      "path": "src\\main\\resources\\mp3_files\\Dag Reinbott - A brilliant Idea.mp3"
+    },
+    {
+      "title": "A great Comeback",
+      "genre": "unknown",
+      "artist": "Dag Reinbott",
+      "album": "TerraSound.de",
+      "path": "src\\main\\resources\\mp3_files\\Dag Reinbott - A great Comeback.mp3"
+    },
+    {
+      "title": "Accelerator",
+      "genre": "unknown",
+      "artist": "Dag Reinbott",
+      "album": "TerraSound.de",
+      "path": "src\\main\\resources\\mp3_files\\Dag Reinbott - Accelerator.mp3"
+    },
+    {
+      "title": "Andalusian Love",
+      "genre": "unknown",
+      "artist": "Dag Reinbott",
+      "album": "TerraSound.de",
+      "path": "src\\main\\resources\\mp3_files\\Dag Reinbott - Andalusian Love.mp3"
+    }
+  ]
+}
